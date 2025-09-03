@@ -1,9 +1,11 @@
-## Repository of feed-forward xD reconstruction
-Including but not limited to 3D/4D reconstruction methods, surveys, datasets and tools. 
+# 📚 Repository of Feed-Forward xD Reconstruction
+Including but not limited to **3D/4D reconstruction methods, surveys, datasets, and tools**.  
 
 ---
 
-#### 🟦 PointMap Based
+## 📖 Papers
+
+### 🟦 PointMap Based
 * **_DUSt3R: Geometric 3D Vision Made Easy_** <br>
 `CVPR 2024` | [`Paper`](https://arxiv.org/pdf/2312.14132) | [`Project`](https://dust3r.europe.naverlabs.com/)
 * **_MASt3R: Grounding Image Matching in 3D with MASt3R_** <br>
@@ -32,9 +34,10 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2503.24391) | [`Project`](https://github.com/Inception3D/Easi3R)
 * **_St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World_** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/pdf/2504.13152) | [`Project`](https://github.com/microsoft/MoGe)
+
 ---
 
-#### 🟩 Gaussian Splatting Based
+### 🟩 Gaussian Splatting Based
 * **_PixelSplat: 3D Gaussian Splats from Image Pairs_** <br>
 `CVPR 2024` | [`Paper`](https://arxiv.org/abs/2312.12337) | [`Project`](https://github.com/dcharatan/pixelsplat)
 * **_MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images_** <br>
@@ -92,9 +95,10 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 * **_Smilesplat: Generalizable gaussian splats for unconstrained sparse images_** <br>
 `Arxiv 2024` | [`Paper`](https://arxiv.org/abs/2411.18072) | [`Project`]()
 
+
 ---
 
-#### 🟨 Others
+### 🟨 Others
 * **_LRM: Large Reconstruction Model for Single Image to 3D_** <br>
 `arXiv 2023` | [`Paper`](https://arxiv.org/abs/2311.04400) | [`Project`](https://yiconghong.me/LRM/)
 * **_PF-LRM: Pose-Free Large Reconstruction Model (Joint Pose & Shape)_** <br>
@@ -111,3 +115,34 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2505.00702) | [`Project`](https://hwjiang1510.github.io/RayZer/)
 * **_Quark: Real-time, High-resolution, and General Neural View Synthesis_** <br>
 `SigAsia 2024` | [`Paper`](https://arxiv.org/abs/2411.16680) | [`Project`](https://quark-3d.github.io/)
+
+
+---
+
+
+## 📊 Datasets
+| Dataset | Description | Links |
+|---------|-------------|-------|
+| **Tanks and Temples** | Multi-view 3D benchmark | [🌐](https://www.tanksandtemples.org/) |
+| **ScanNet / ScanNet++** | Large-scale indoor RGB-D dataset | [🌐](http://www.scan-net.org/) |
+| **CO3D (Common Objects in 3D)** | In-the-wild multi-object dataset | [🌐](https://github.com/facebookresearch/co3d) |
+| **MVImgNet** | Multi-view image dataset | [🌐](https://mvimgnet.github.io/) |
+| **Objaverse / Objaverse-XL** | Massive 3D object dataset | [🌐](https://objaverse.allenai.org/) |
+| **GSO (Google Scanned Objects)** | High-quality 3D scanned assets | [🌐](https://storage.googleapis.com/scanned-objects/) |
+
+
+---
+
+
+## 🛠 Tools
+| Tool | Description | Links |
+|------|-------------|-------|
+| **PyTorch3D** | Deep learning with 3D data | [🌐](https://pytorch3d.org/) |
+| **Kaolin** | NVIDIA 3D deep learning library | [🌐](https://github.com/NVIDIAGameWorks/kaolin) |
+| **Open3D** | 3D data processing library | [🌐](http://www.open3d.org/) |
+| **COLMAP** | SfM and MVS pipeline | [🌐](https://colmap.github.io/) |
+| **NeRFStudio** | Framework for NeRF training/testing | [🌐](https://nerf.studio/) |
+| **Gaussian-Splatting** | Reference implementation | [🌐](https://github.com/graphdeco-inria/gaussian-splatting) |
+
+
+---
