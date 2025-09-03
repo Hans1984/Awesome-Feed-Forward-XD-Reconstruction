@@ -45,20 +45,26 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 `ECCV 2024` | [`Paper`](https://arxiv.org/abs/2404.19702) | [`Project`](https://sai-bi.github.io/project/gs-lrm/)
 * **_LatentSplat: Autoencoding Variational Gaussians for Fast Generalizable 3D Reconstruction_** <br>
 `ECCV 2024` | [`Paper`](https://arxiv.org/abs/2403.16292) | [`Project`](https://github.com/Chrixtar/latentsplat)
+* **_GGRt: Towards Pose-free Generalizable 3D Gaussian Splatting in Real-time_** <br>
+`ECCV 2024` | [`Paper`](https://arxiv.org/abs/2403.10147) | [`Project`](https://3d-aigc.github.io/GGRt/)
 * **_Epipolar-Free 3D Gaussian Splatting for Generalizable Novel View Synthesis_** <br>
 `NeurIPS 2024` | [`Paper`](https://proceedings.neurips.cc/paper_files/paper/2024/file/45ed1a72597594c097152ef9cc187762-Paper-Conference.pdf) | [`Project`](https://tatakai1.github.io/efreesplat/)
+* **_TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers_** <br>
+`AAAI 2024` | [`Paper`](https://arxiv.org/abs/2408.13770) | [`Project`](https://xingyoujun.github.io/transplat/)
 * **_NonoSplat: No Pose, No Problem Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images_** <br>
 `ICLR 2025` | [`Paper`](https://arxiv.org/pdf/2410.24207) | [`Project`](https://noposplat.github.io/)
 * **_PF3plat : Pose-Free Feed-Forward 3D Gaussian Splatting_** <br>
 `ICLR 2025` | [`Paper`](https://openreview.net/pdf?id=VjI1NnsW4t) | [`Project`](https://github.com/cvlab-kaist/PF3plat)
 * **_Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image_** <br>
 `3DV 2025` | [`Paper`](https://arxiv.org/abs/2406.04343) | [`Project`](https://github.com/eldar/flash3d)
+* **_DepthSplat: Connecting Gaussian Splatting and Depth_** <br>
+`CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_DepthSplat_Connecting_Gaussian_Splatting_and_Depth_CVPR_2025_paper.pdf) | [`Project`](http://haofeixu.github.io/depthsplat)
 * **_Wonderland: Navigating 3D Scenes from a Single Image_** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2412.12091) | [`Project`](https://snap-research.github.io/wonderland/)
-* **_AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views_** <br>
-`SigAsia 2025` | [`Paper`](https://arxiv.org/abs/2505.23716) | [`Project`](https://city-super.github.io/anysplat/)
 * **_FreeSplatter: Pose-free Gaussian Splatting for Sparse-view 3D Reconstruction_** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2412.09573) | [`Project`](https://github.com/TencentARC/FreeSplatter)
+* **_AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views_** <br>
+`SigAsia 2025` | [`Paper`](https://arxiv.org/abs/2505.23716) | [`Project`](https://city-super.github.io/anysplat/)
 * **_Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats_** <br>
 `Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2410.12781) | [`Project`]()
 
