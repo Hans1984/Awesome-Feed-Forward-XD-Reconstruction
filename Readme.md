@@ -47,10 +47,14 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 `ECCV 2024` | [`Paper`](https://arxiv.org/abs/2403.16292) | [`Project`](https://github.com/Chrixtar/latentsplat)
 * **_GGRt: Towards Pose-free Generalizable 3D Gaussian Splatting in Real-time_** <br>
 `ECCV 2024` | [`Paper`](https://arxiv.org/abs/2403.10147) | [`Project`](https://3d-aigc.github.io/GGRt/)
+* **_LaRa: Efficient Large-Baseline Radiance Fields_** <br>
+`ECCV 2024` | [`Paper`](https://arxiv.org/abs/2407.04699) | [`Project`](https://github.com/autonomousvision/LaRa)
 * **_Epipolar-Free 3D Gaussian Splatting for Generalizable Novel View Synthesis_** <br>
 `NeurIPS 2024` | [`Paper`](https://proceedings.neurips.cc/paper_files/paper/2024/file/45ed1a72597594c097152ef9cc187762-Paper-Conference.pdf) | [`Project`](https://tatakai1.github.io/efreesplat/)
 * **_MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views_** <br>
 `NeurIPS 2024` | [`Paper`](https://proceedings.neurips.cc/paper_files/paper/2024/file/c196239c5f9481e0db2755f31fe4585f-Paper-Conference.pdf) | [`Project`](https://github.com/donydchen/mvsplat360)
+* **_SCube: Instant Large-Scale Scene Reconstruction using VoxSplats_** <br>
+`NeurIPS 2024` | [`Paper`](https://proceedings.neurips.cc/paper_files/paper/2024/file/b111aa30ab71255946b19b6bd4e68939-Paper-Conference.pdf) | [`Project`](https://research.nvidia.com/labs/toronto-ai/scube/)
 * **_TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers_** <br>
 `AAAI 2024` | [`Paper`](https://arxiv.org/abs/2408.13770) | [`Project`](https://xingyoujun.github.io/transplat/)
 * **_NonoSplat: No Pose, No Problem Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images_** <br>
@@ -65,6 +69,10 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 `CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_DepthSplat_Connecting_Gaussian_Splatting_and_Depth_CVPR_2025_paper.pdf) | [`Project`](http://haofeixu.github.io/depthsplat)
 * **_PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting_** <br>
 `CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_PanSplat_4K_Panorama_Synthesis_with_Feed-Forward_Gaussian_Splatting_CVPR_2025_paper.pdf) | [`Project`](https://github.com/chengzhag/PanSplat)
+* **_FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views_** <br>
+`CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_FLARE_Feed-forward_Geometry_Appearance_and_Camera_Estimation_from_Uncalibrated_Sparse_CVPR_2025_paper.pdf) | [`Project`](https://zhanghe3z.github.io/FLARE/)
+* **_Generative Densification: Learning to Densify Gaussians for High-Fidelity Generalizable 3D Reconstruction_** <br>
+`CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Nam_Generative_Densification_Learning_to_Densify_Gaussians_for_High-Fidelity_Generalizable_3D_CVPR_2025_paper.pdf) | [`Project`](https://stnamjef.github.io/GenerativeDensification/)
 * **_Wonderland: Navigating 3D Scenes from a Single Image_** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2412.12091) | [`Project`](https://snap-research.github.io/wonderland/)
 * **_FreeSplatter: Pose-free Gaussian Splatting for Sparse-view 3D Reconstruction_** <br>
@@ -73,6 +81,8 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 `SigAsia 2025` | [`Paper`](https://arxiv.org/abs/2505.23716) | [`Project`](https://city-super.github.io/anysplat/)
 * **_Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats_** <br>
 `Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2410.12781) | [`Project`]()
+* **_QuickSplat: Fast 3D Surface Reconstruction via Learned Gaussian Initialization_** <br>
+`Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2505.05591) | [`Project`]()
 
 
 ---
@@ -88,8 +98,7 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 ---
 
 #### 🟨 Others
-* **_FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views_** <br>
-`CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_FLARE_Feed-forward_Geometry_Appearance_and_Camera_Estimation_from_Uncalibrated_Sparse_CVPR_2025_paper.pdf) | [`Project`](https://zhanghe3z.github.io/FLARE/)
+
 
 * **_TripoSR: Fast 3D Object Reconstruction from a Single Image_** <br>
 `arXiv 2024` | [`Paper`](https://arxiv.org/abs/2403.02151) | [`Project`](https://github.com/VAST-AI-Research/TripoSR)
