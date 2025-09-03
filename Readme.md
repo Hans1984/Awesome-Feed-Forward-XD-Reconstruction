@@ -43,10 +43,15 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 `ECCV 2024` | [`Paper`](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02257.pdf) | [`Project`](https://justimyhxu.github.io/projects/grm/)
 * **_GS-LRM: Large Reconstruction Model for 3D Gaussian Splatting_** <br>
 `ECCV 2024` | [`Paper`](https://arxiv.org/abs/2404.19702) | [`Project`](https://sai-bi.github.io/project/gs-lrm/)
+* **_Epipolar-Free 3D Gaussian Splatting for Generalizable Novel View Synthesis_** <br>
+`NeurIPS 2024` | [`Paper`](https://proceedings.neurips.cc/paper_files/paper/2024/file/45ed1a72597594c097152ef9cc187762-Paper-Conference.pdf) | [`Project`](https://tatakai1.github.io/efreesplat/)
 * **_NonoSplat: No Pose, No Problem Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images_** <br>
 `ICLR 2025` | [`Paper`](https://arxiv.org/pdf/2410.24207) | [`Project`](https://noposplat.github.io/)
 * **_PF3plat : Pose-Free Feed-Forward 3D Gaussian Splatting_** <br>
 `ICLR 2025` | [`Paper`](https://openreview.net/pdf?id=VjI1NnsW4t) | [`Project`](https://github.com/cvlab-kaist/PF3plat)
+* **_Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image_** <br>
+`3DV 2025` | [`Paper`](https://arxiv.org/abs/2406.04343) | [`Project`](https://github.com/eldar/flash3d)
+
 
 ---
 
@@ -63,8 +68,7 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 #### 🟨 Others
 * **_FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views_** <br>
 `CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_FLARE_Feed-forward_Geometry_Appearance_and_Camera_Estimation_from_Uncalibrated_Sparse_CVPR_2025_paper.pdf) | [`Project`](https://zhanghe3z.github.io/FLARE/)
-* **_Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image_** <br>
-`arXiv 2024` | [`Paper`](https://arxiv.org/abs/2406.04343) | [`Project`](https://github.com/eldar/flash3d)
+
 * **_TripoSR: Fast 3D Object Reconstruction from a Single Image_** <br>
 `arXiv 2024` | [`Paper`](https://arxiv.org/abs/2403.02151) | [`Project`](https://github.com/VAST-AI-Research/TripoSR)
 * **_Splatter Image: Ultra-Fast Single-View 3D Reconstruction_** <br>
