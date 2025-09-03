@@ -24,16 +24,14 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 `CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Tang_MV-DUSt3R_Single-Stage_Scene_Reconstruction_from_Sparse_Views_In_2_Seconds_CVPR_2025_paper.pdf) | [`Project`](https://mv-dust3rp.github.io/)
 * **_SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos_** <br>
 `CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_SLAM3R_Real-Time_Dense_Scene_Reconstruction_from_Monocular_RGB_Videos_CVPR_2025_paper.pdf) | [`Project`](https://github.com/PKU-VCL-3DV/SLAM3R)
+* **_MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision_** <br>
+`CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_MoGe_Unlocking_Accurate_Monocular_Geometry_Estimation_for_Open-Domain_Images_with_CVPR_2025_paper.pdf) | [`Project`](https://github.com/facebookresearch/vggt)
 * **_VGGT: Visual Geometry Grounded Transformer_** <br>
 `CVPR 2025` | [`Paper`](https://arxiv.org/abs/2503.11651) | [`Project`](https://github.com/facebookresearch/vggt)
 * **_Easi3R: Estimating Disentangled Motion from DUSt3R Without Training_** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2503.24391) | [`Project`](https://github.com/Inception3D/Easi3R)
 * **_St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World_** <br>
-`ICCV 2025` | [`Paper`](https://arxiv.org/pdf/2504.13152) | [`Project`](https://st4rtrack.github.io/)
-
-
-
-
+`ICCV 2025` | [`Paper`](https://arxiv.org/pdf/2504.13152) | [`Project`](https://github.com/microsoft/MoGe)
 ---
 
 #### 🟩 Gaussian Splatting Based
@@ -45,6 +43,10 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 `ECCV 2024` | [`Paper`](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02257.pdf) | [`Project`](https://justimyhxu.github.io/projects/grm/)
 * **_GS-LRM: Large Reconstruction Model for 3D Gaussian Splatting_** <br>
 `ECCV 2024` | [`Paper`](https://arxiv.org/abs/2404.19702) | [`Project`](https://sai-bi.github.io/project/gs-lrm/)
+* **_NonoSplat: No Pose, No Problem Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images_** <br>
+`ICLR 2025` | [`Paper`](https://arxiv.org/pdf/2410.24207) | [`Project`](https://noposplat.github.io/)
+* **_PF3plat : Pose-Free Feed-Forward 3D Gaussian Splatting_** <br>
+`ICLR 2025` | [`Paper`](https://openreview.net/pdf?id=VjI1NnsW4t) | [`Project`](https://github.com/cvlab-kaist/PF3plat)
 
 ---
 
