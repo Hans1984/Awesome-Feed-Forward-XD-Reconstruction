@@ -6,7 +6,7 @@ Including but not limited to **3D/4D reconstruction methods, datasets, and tools
 ## 📖 Papers
 
 ### 🟦 PointMap Based
-* **_DUSt3R: Geometric 3D Vision Made Easy_** <br>
+* **⭐[DUSt3R]: Geometric 3D Vision Made Easy** <br>
 `CVPR 2024` | [`Paper`](https://arxiv.org/pdf/2312.14132) | [`Project`](https://dust3r.europe.naverlabs.com/)
 * **_MASt3R: Grounding Image Matching in 3D with MASt3R_** <br>
 `ECCV 2024` | [`Paper`](https://arxiv.org/abs/2406.09756) | [`Project`](https://github.com/naver/mast3r)
@@ -20,7 +20,7 @@ Including but not limited to **3D/4D reconstruction methods, datasets, and tools
 `CVPR 2025` | [`Paper`](https://arxiv.org/pdf/2412.03079) | [`Project`](https://github.com/jiah-cloud/Align3R)
 * **_Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization_** <br>
 `CVPR 2025` | [`Paper`](https://arxiv.org/pdf/2412.08376) | [`Project`](https://github.com/ffrivera0/reloc3r)
-* **_Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass_** <br>
+* **⭐Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass** <br>
 `CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Fast3R_Towards_3D_Reconstruction_of_1000_Images_in_One_Forward_CVPR_2025_paper.html) | [`Project`](https://fast3r-3d.github.io/)
 * **_MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds_** <br>
 `CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Tang_MV-DUSt3R_Single-Stage_Scene_Reconstruction_from_Sparse_Views_In_2_Seconds_CVPR_2025_paper.pdf) | [`Project`](https://mv-dust3rp.github.io/)
@@ -28,7 +28,7 @@ Including but not limited to **3D/4D reconstruction methods, datasets, and tools
 `CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_SLAM3R_Real-Time_Dense_Scene_Reconstruction_from_Monocular_RGB_Videos_CVPR_2025_paper.pdf) | [`Project`](https://github.com/PKU-VCL-3DV/SLAM3R)
 * **_MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision_** <br>
 `CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_MoGe_Unlocking_Accurate_Monocular_Geometry_Estimation_for_Open-Domain_Images_with_CVPR_2025_paper.pdf) | [`Project`](https://github.com/facebookresearch/vggt)
-* **_VGGT: Visual Geometry Grounded Transformer_** <br>
+* **⭐VGGT: Visual Geometry Grounded Transformer** <br>
 `CVPR 2025` | [`Paper`](https://arxiv.org/abs/2503.11651) | [`Project`](https://github.com/facebookresearch/vggt)
 * **_Easi3R: Estimating Disentangled Motion from DUSt3R Without Training_** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2503.24391) | [`Project`](https://github.com/Inception3D/Easi3R)
@@ -38,7 +38,7 @@ Including but not limited to **3D/4D reconstruction methods, datasets, and tools
 ---
 
 ### 🟩 Gaussian Splatting Based
-* **_PixelSplat: 3D Gaussian Splats from Image Pairs_** <br>
+* **⭐PixelSplat: 3D Gaussian Splats from Image Pairs** <br>
 `CVPR 2024` | [`Paper`](https://arxiv.org/abs/2312.12337) | [`Project`](https://github.com/dcharatan/pixelsplat)
 * **_MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images_** <br>
 `ECCV 2024` | [`Paper`](https://arxiv.org/abs/2403.14627) | [`Project`](https://donydchen.github.io/mvsplat/)
@@ -72,7 +72,7 @@ Including but not limited to **3D/4D reconstruction methods, datasets, and tools
 `CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_DepthSplat_Connecting_Gaussian_Splatting_and_Depth_CVPR_2025_paper.pdf) | [`Project`](http://haofeixu.github.io/depthsplat)
 * **_PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting_** <br>
 `CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_PanSplat_4K_Panorama_Synthesis_with_Feed-Forward_Gaussian_Splatting_CVPR_2025_paper.pdf) | [`Project`](https://github.com/chengzhag/PanSplat)
-* **_FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views_** <br>
+* **⭐FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views** <br>
 `CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_FLARE_Feed-forward_Geometry_Appearance_and_Camera_Estimation_from_Uncalibrated_Sparse_CVPR_2025_paper.pdf) | [`Project`](https://zhanghe3z.github.io/FLARE/)
 * **_Generative Densification: Learning to Densify Gaussians for High-Fidelity Generalizable 3D Reconstruction_** <br>
 `CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Nam_Generative_Densification_Learning_to_Densify_Gaussians_for_High-Fidelity_Generalizable_3D_CVPR_2025_paper.pdf) | [`Project`](https://stnamjef.github.io/GenerativeDensification/)
@@ -99,7 +99,7 @@ Including but not limited to **3D/4D reconstruction methods, datasets, and tools
 ---
 
 ### 🟨 Others
-* **_LRM: Large Reconstruction Model for Single Image to 3D_** <br>
+* **⭐LRM: Large Reconstruction Model for Single Image to 3D** <br>
 `arXiv 2023` | [`Paper`](https://arxiv.org/abs/2311.04400) | [`Project`](https://yiconghong.me/LRM/)
 * **_PF-LRM: Pose-Free Large Reconstruction Model (Joint Pose & Shape)_** <br>
 `arXiv 2023` | [`Paper`](https://arxiv.org/abs/2311.12024) | [`Project`](https://pf-lrm.github.io/project/)
@@ -109,11 +109,11 @@ Including but not limited to **3D/4D reconstruction methods, datasets, and tools
 `arXiv 2024` | [`Paper`](https://arxiv.org/abs/2403.02151) | [`Project`](https://github.com/VAST-AI-Research/TripoSR)
 * **_Splatter Image: Ultra-Fast Single-View 3D Reconstruction_** <br>
 `CVPR 2024` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Szymanowicz_Splatter_Image_Ultra-Fast_Single-View_3D_Reconstruction_CVPR_2024_paper.pdf) | [`Project`](https://github.com/akhaliq/splatter-image)
-* **_LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias_** <br>
+* **⭐LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias** <br>
 `ICLR 2025` | [`Paper`](https://arxiv.org/abs/2410.17242) | [`Project`](https://haian-jin.github.io/projects/LVSM/)
 * **_RayZer: A Self-supervised Large View Synthesis Model_** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2505.00702) | [`Project`](https://hwjiang1510.github.io/RayZer/)
-* **_Quark: Real-time, High-resolution, and General Neural View Synthesis_** <br>
+* **⭐Quark: Real-time, High-resolution, and General Neural View Synthesis** <br>
 `SigAsia 2024` | [`Paper`](https://arxiv.org/abs/2411.16680) | [`Project`](https://quark-3d.github.io/)
 
 
@@ -121,15 +121,21 @@ Including but not limited to **3D/4D reconstruction methods, datasets, and tools
 
 
 ## 📊 Datasets
-| Dataset | Description | Links |
-|---------|-------------|-------|
-| **Tanks and Temples** | Multi-view 3D benchmark | [🌐](https://www.tanksandtemples.org/) |
-| **ScanNet / ScanNet++** | Large-scale indoor RGB-D dataset | [🌐](http://www.scan-net.org/) |
-| **CO3D (Common Objects in 3D)** | In-the-wild multi-object dataset | [🌐](https://github.com/facebookresearch/co3d) |
-| **MVImgNet** | Multi-view image dataset | [🌐](https://mvimgnet.github.io/) |
-| **Objaverse / Objaverse-XL** | Massive 3D object dataset | [🌐](https://objaverse.allenai.org/) |
-| **GSO (Google Scanned Objects)** | High-quality 3D scanned assets | [🌐](https://storage.googleapis.com/scanned-objects/) |
 
+| Dataset | Year | Size / Content | Category | Links |
+|---------|------|----------------|----------|-------|
+| **Virtual KITTI** | 2016 | 50 video seq. cloned from KITTI | Outdoor, Driving | [🌐 ](https://europe.naverlabs.com/research/computer-vision/proxy-virtual-worlds-vkitti-1/) |
+| **ETH3D** | 2017 | 80 high-res training scenes, benchmark test sets | Outdoor / Indoor | [🌐 ](https://www.eth3d.net/) |
+| **RealEstate10K** | 2019 | 10M+ frames, 80K video clips | Outdoor / Indoor, Video | [🌐 ](https://google.github.io/realestate10k/) |
+| **BlendedMVS** | 2020 | 17K+ images | Outdoor | [🌐 ](https://github.com/YoYo000/BlendedMVS) |
+| **Waymo Open Dataset** | 2020 | 1,150 scenes | Outdoor, Driving | [🌐 ](https://waymo.com/open/) |
+| **ARKitScenes** | 2021 | 5,048 RGB-D sequences, 1,661 scenes | Indoor | [🌐 ](https://github.com/apple/ARKitScenes) |
+| **CO3D-v2** | 2021 | 1.5M frames, ~19K videos | Object-centric | [🌐 ](https://github.com/facebookresearch/co3d) |
+| **HyperSim** | 2021 | 774 scenes (~100K images), 461 layouts | Indoor, Synthetic | [🌐 ](https://github.com/apple/ml-hypersim) |
+| **ScanNet++** | 2023 | 460 scenes, 280K DSLR images, 3.7M RGB-D frames | Indoor | [🌐 ](http://www.scan-net.org/) |
+| **DL3DV** | 2022 | 10,510 scenes | Outdoor | [🌐 ](https://github.com/drivers-in-the-loop/DL3DV-dataset) |
+| **WildRGB-D** | 2024 | 13 long sequences, ~100K RGB-D frames | Indoor, Dynamic | [🌐 ](https://github.com/EPFL-VILAB/WildRGB-D) |
+| **Objaverse / Objaverse-XL** | 2022 / 2023 | 800K → 10M+ 3D objects | Object-centric | [🌐 ](https://objaverse.allenai.org/) |
 
 ---
 
