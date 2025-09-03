@@ -14,6 +14,8 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 `CVPR 2025` | [`Paper`](https://arxiv.org/abs/2501.12387) | [`Project`](https://cut3r.github.io/)
 * **_Pow3R: Empowering Unconstrained 3D Reconstruction with Camera and Scene Priors_** <br>
 `CVPR 2025` | [`Paper`](https://arxiv.org/pdf/2503.17316) | [`Project`](https://europe.naverlabs.com/research/publications/pow3r-empowering-unconstrained-3d-reconstruction-with-camera-and-scene-priors/)
+* **_Align3R: Aligned Monocular Depth Estimation for Dynamic Videos_** <br>
+`CVPR 2025` | [`Paper`](https://arxiv.org/pdf/2412.03079) | [`Project`](https://github.com/jiah-cloud/Align3R)
 * **_Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass_** <br>
 `CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Fast3R_Towards_3D_Reconstruction_of_1000_Images_in_One_Forward_CVPR_2025_paper.html) | [`Project`](https://fast3r-3d.github.io/)
 * **_SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos_** <br>
