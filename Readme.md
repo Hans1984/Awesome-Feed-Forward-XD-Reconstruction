@@ -28,6 +28,8 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 `CVPR 2025` | [`Paper`](https://arxiv.org/abs/2503.11651) | [`Project`](https://github.com/facebookresearch/vggt)
 * **_Easi3R: Estimating Disentangled Motion from DUSt3R Without Training_** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2503.24391) | [`Project`](https://github.com/Inception3D/Easi3R)
+* **_St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World_** <br>
+`ICCV 2025` | [`Paper`](https://arxiv.org/pdf/2504.13152) | [`Project`](https://st4rtrack.github.io/)
 
 
 
