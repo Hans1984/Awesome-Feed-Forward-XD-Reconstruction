@@ -52,7 +52,7 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 * **_PF-LRM: Pose-Free Large Reconstruction Model (Joint Pose & Shape)_** <br>
 `arXiv 2023` | [`Paper`](https://arxiv.org/abs/2311.12024) | [`Project`](https://pf-lrm.github.io/project/)
 * **_LRM-Zero: Training Large Reconstruction Models with Synthesized Data_** <br>
-`arXiv 2024` | [`Paper`](https://arxiv.org/abs/2406.09371) | [`Project`](https://desaixie.github.io/lrm-zero/)
+`NeurIPS 2024` | [`Paper`](https://arxiv.org/abs/2406.09371) | [`Project`](https://desaixie.github.io/lrm-zero/)
 
 ---
 
