@@ -139,16 +139,11 @@ Including but not limited to **3D/4D reconstruction methods, datasets, and tools
 
 ---
 
-
 ## 🛠 Tools
+
 | Tool | Description | Links |
 |------|-------------|-------|
-| **PyTorch3D** | Deep learning with 3D data | [🌐](https://pytorch3d.org/) |
-| **Kaolin** | NVIDIA 3D deep learning library | [🌐](https://github.com/NVIDIAGameWorks/kaolin) |
-| **Open3D** | 3D data processing library | [🌐](http://www.open3d.org/) |
-| **COLMAP** | SfM and MVS pipeline | [🌐](https://colmap.github.io/) |
-| **NeRFStudio** | Framework for NeRF training/testing | [🌐](https://nerf.studio/) |
-| **Gaussian-Splatting** | Reference implementation | [🌐](https://github.com/graphdeco-inria/gaussian-splatting) |
-
-
+| **CloudCompare** | Interactive 3D point cloud viewer & processing software, supports segmentation, registration, distance computation, large-scale data. | [🌐](https://www.cloudcompare.org/) |
+| **MeshLab** | Open-source system for processing and editing 3D meshes and point clouds, supports cleaning, sampling, normals, meshing. | [🌐](https://www.meshlab.net/) |
+| **Open3D** | Python/C++ library for 3D data processing, point cloud visualization, registration, reconstruction. | [🌐](http://www.open3d.org/) |
 ---
