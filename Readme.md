@@ -1,5 +1,5 @@
 # 📚 Repository of Feed-Forward xD Reconstruction
-Including but not limited to **3D/4D reconstruction methods, surveys, datasets, and tools**.  
+Including but not limited to **3D/4D reconstruction methods, datasets, and tools**.  
 
 ---
 
