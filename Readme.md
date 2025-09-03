@@ -6,7 +6,7 @@ Including but not limited to **3D/4D reconstruction methods, datasets, and tools
 ## 📖 Papers
 
 ### 🟦 PointMap Based
-* **⭐[DUSt3R]: Geometric 3D Vision Made Easy** <br>
+* **⭐DUSt3R: Geometric 3D Vision Made Easy** <br>
 `CVPR 2024` | [`Paper`](https://arxiv.org/pdf/2312.14132) | [`Project`](https://dust3r.europe.naverlabs.com/)
 * **_MASt3R: Grounding Image Matching in 3D with MASt3R_** <br>
 `ECCV 2024` | [`Paper`](https://arxiv.org/abs/2406.09756) | [`Project`](https://github.com/naver/mast3r)
