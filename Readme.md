@@ -73,6 +73,12 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 `CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_FLARE_Feed-forward_Geometry_Appearance_and_Camera_Estimation_from_Uncalibrated_Sparse_CVPR_2025_paper.pdf) | [`Project`](https://zhanghe3z.github.io/FLARE/)
 * **_Generative Densification: Learning to Densify Gaussians for High-Fidelity Generalizable 3D Reconstruction_** <br>
 `CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Nam_Generative_Densification_Learning_to_Densify_Gaussians_for_High-Fidelity_Generalizable_3D_CVPR_2025_paper.pdf) | [`Project`](https://stnamjef.github.io/GenerativeDensification/)
+* **_Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers_** <br>
+`CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2024/html/Zou_Triplane_Meets_Gaussian_Splatting_Fast_and_Generalizable_Single-View_3D_Reconstruction_CVPR_2024_paper.html) | [`Project`](https://github.com/VAST-AI-Research/TriplaneGaussian)
+* **_SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting_** <br>
+`CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Kang_SelfSplat_Pose-Free_and_3D_Prior-Free_Generalizable_3D_Gaussian_Splatting_CVPR_2025_paper.pdf) | [`Project`](https://gynjn.github.io/selfsplat/)
+* **_AGG: Amortized Generative 3D Gaussians for Single Image to 3D_** <br>
+`Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2401.04099) | [`Project`](https://ir1d.github.io/AGG/)
 * **_Wonderland: Navigating 3D Scenes from a Single Image_** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2412.12091) | [`Project`](https://snap-research.github.io/wonderland/)
 * **_FreeSplatter: Pose-free Gaussian Splatting for Sparse-view 3D Reconstruction_** <br>
@@ -83,24 +89,25 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 `Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2410.12781) | [`Project`]()
 * **_QuickSplat: Fast 3D Surface Reconstruction via Learned Gaussian Initialization_** <br>
 `Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2505.05591) | [`Project`]()
-
+* **_Smilesplat: Generalizable gaussian splats for unconstrained sparse images_** <br>
+`Arxiv 2024` | [`Paper`](https://arxiv.org/abs/2411.18072) | [`Project`]()
 
 ---
 
-#### 🟥 LRM (Large Reconstruction Models) Based
+#### 🟨 Others
 * **_LRM: Large Reconstruction Model for Single Image to 3D_** <br>
 `arXiv 2023` | [`Paper`](https://arxiv.org/abs/2311.04400) | [`Project`](https://yiconghong.me/LRM/)
 * **_PF-LRM: Pose-Free Large Reconstruction Model (Joint Pose & Shape)_** <br>
 `arXiv 2023` | [`Paper`](https://arxiv.org/abs/2311.12024) | [`Project`](https://pf-lrm.github.io/project/)
 * **_LRM-Zero: Training Large Reconstruction Models with Synthesized Data_** <br>
 `NeurIPS 2024` | [`Paper`](https://arxiv.org/abs/2406.09371) | [`Project`](https://desaixie.github.io/lrm-zero/)
-
----
-
-#### 🟨 Others
-
-
 * **_TripoSR: Fast 3D Object Reconstruction from a Single Image_** <br>
 `arXiv 2024` | [`Paper`](https://arxiv.org/abs/2403.02151) | [`Project`](https://github.com/VAST-AI-Research/TripoSR)
 * **_Splatter Image: Ultra-Fast Single-View 3D Reconstruction_** <br>
 `CVPR 2024` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Szymanowicz_Splatter_Image_Ultra-Fast_Single-View_3D_Reconstruction_CVPR_2024_paper.pdf) | [`Project`](https://github.com/akhaliq/splatter-image)
+* **_LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias_** <br>
+`ICLR 2025` | [`Paper`](https://arxiv.org/abs/2410.17242) | [`Project`](https://haian-jin.github.io/projects/LVSM/)
+* **_RayZer: A Self-supervised Large View Synthesis Model_** <br>
+`ICCV 2025` | [`Paper`](https://arxiv.org/abs/2505.00702) | [`Project`](https://hwjiang1510.github.io/RayZer/)
+* **_Quark: Real-time, High-resolution, and General Neural View Synthesis_** <br>
+`SigAsia 2024` | [`Paper`](https://arxiv.org/abs/2411.16680) | [`Project`](https://quark-3d.github.io/)
