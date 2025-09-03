@@ -49,16 +49,22 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 `ECCV 2024` | [`Paper`](https://arxiv.org/abs/2403.10147) | [`Project`](https://3d-aigc.github.io/GGRt/)
 * **_Epipolar-Free 3D Gaussian Splatting for Generalizable Novel View Synthesis_** <br>
 `NeurIPS 2024` | [`Paper`](https://proceedings.neurips.cc/paper_files/paper/2024/file/45ed1a72597594c097152ef9cc187762-Paper-Conference.pdf) | [`Project`](https://tatakai1.github.io/efreesplat/)
+* **_MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views_** <br>
+`NeurIPS 2024` | [`Paper`](https://proceedings.neurips.cc/paper_files/paper/2024/file/c196239c5f9481e0db2755f31fe4585f-Paper-Conference.pdf) | [`Project`](https://github.com/donydchen/mvsplat360)
 * **_TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers_** <br>
 `AAAI 2024` | [`Paper`](https://arxiv.org/abs/2408.13770) | [`Project`](https://xingyoujun.github.io/transplat/)
 * **_NonoSplat: No Pose, No Problem Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images_** <br>
 `ICLR 2025` | [`Paper`](https://arxiv.org/pdf/2410.24207) | [`Project`](https://noposplat.github.io/)
 * **_PF3plat : Pose-Free Feed-Forward 3D Gaussian Splatting_** <br>
 `ICLR 2025` | [`Paper`](https://openreview.net/pdf?id=VjI1NnsW4t) | [`Project`](https://github.com/cvlab-kaist/PF3plat)
+* **_HiSplat: Hierarchical 3D Gaussian Splatting for Generalizable Sparse-View Reconstruction_** <br>
+`ICLR 2025` | [`Paper`](https://arxiv.org/abs/2410.06245) | [`Project`](https://github.com/Open3DVLab/HiSplat)
 * **_Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image_** <br>
 `3DV 2025` | [`Paper`](https://arxiv.org/abs/2406.04343) | [`Project`](https://github.com/eldar/flash3d)
 * **_DepthSplat: Connecting Gaussian Splatting and Depth_** <br>
 `CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_DepthSplat_Connecting_Gaussian_Splatting_and_Depth_CVPR_2025_paper.pdf) | [`Project`](http://haofeixu.github.io/depthsplat)
+* **_PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting_** <br>
+`CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_PanSplat_4K_Panorama_Synthesis_with_Feed-Forward_Gaussian_Splatting_CVPR_2025_paper.pdf) | [`Project`](https://github.com/chengzhag/PanSplat)
 * **_Wonderland: Navigating 3D Scenes from a Single Image_** <br>
 `ICCV 2025` | [`Paper`](https://arxiv.org/abs/2412.12091) | [`Project`](https://snap-research.github.io/wonderland/)
 * **_FreeSplatter: Pose-free Gaussian Splatting for Sparse-view 3D Reconstruction_** <br>
