@@ -51,6 +51,14 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 `ICLR 2025` | [`Paper`](https://openreview.net/pdf?id=VjI1NnsW4t) | [`Project`](https://github.com/cvlab-kaist/PF3plat)
 * **_Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image_** <br>
 `3DV 2025` | [`Paper`](https://arxiv.org/abs/2406.04343) | [`Project`](https://github.com/eldar/flash3d)
+* **_Wonderland: Navigating 3D Scenes from a Single Image_** <br>
+`ICCV 2025` | [`Paper`](https://arxiv.org/abs/2412.12091) | [`Project`](https://snap-research.github.io/wonderland/)
+* **_AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views_** <br>
+`SigAsia 2025` | [`Paper`](https://arxiv.org/abs/2505.23716) | [`Project`](https://city-super.github.io/anysplat/)
+* **_FreeSplatter: Pose-free Gaussian Splatting for Sparse-view 3D Reconstruction_** <br>
+`ICCV 2025` | [`Paper`](https://arxiv.org/abs/2412.09573) | [`Project`](https://github.com/TencentARC/FreeSplatter)
+* **_Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats_** <br>
+`Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2410.12781) | [`Project`]()
 
 
 ---
