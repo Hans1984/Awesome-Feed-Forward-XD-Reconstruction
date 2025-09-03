@@ -8,12 +8,20 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 `CVPR 2024` | [`Paper`](https://arxiv.org/pdf/2312.14132) | [`Project`](https://dust3r.europe.naverlabs.com/)
 * **_MASt3R: Grounding Image Matching in 3D with MASt3R_** <br>
 `ECCV 2024` | [`Paper`](https://arxiv.org/abs/2406.09756) | [`Project`](https://github.com/naver/mast3r)
-* **_CUT3R: Continuous 3D Perception Model with Persistent State_** <br>
-`CVPR 2025` | [`Paper`](https://arxiv.org/abs/2501.12387) | [`Project`](https://cut3r.github.io/)
 * **_MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion_** <br>
 `ICLR 2025` | [`Paper`](https://arxiv.org/pdf/2410.03825) | [`Project`](https://monst3r-project.github.io/)
+* **_CUT3R: Continuous 3D Perception Model with Persistent State_** <br>
+`CVPR 2025` | [`Paper`](https://arxiv.org/abs/2501.12387) | [`Project`](https://cut3r.github.io/)
+* **_Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass_** <br>
+`CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Fast3R_Towards_3D_Reconstruction_of_1000_Images_in_One_Forward_CVPR_2025_paper.html) | [`Project`](https://fast3r-3d.github.io/)
+* **_SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos_** <br>
+`CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_SLAM3R_Real-Time_Dense_Scene_Reconstruction_from_Monocular_RGB_Videos_CVPR_2025_paper.pdf) | [`Project`](https://github.com/PKU-VCL-3DV/SLAM3R)
 * **_VGGT: Visual Geometry Grounded Transformer_** <br>
 `CVPR 2025` | [`Paper`](https://arxiv.org/abs/2503.11651) | [`Project`](https://github.com/facebookresearch/vggt)
+* **_Easi3R: Estimating Disentangled Motion from DUSt3R Without Training_** <br>
+`ICCV 2025` | [`Paper`](https://arxiv.org/abs/2503.24391) | [`Project`](https://github.com/Inception3D/Easi3R)
+
+
 
 
 ---
