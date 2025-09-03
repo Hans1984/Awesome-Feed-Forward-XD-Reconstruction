@@ -16,8 +16,12 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 `CVPR 2025` | [`Paper`](https://arxiv.org/pdf/2503.17316) | [`Project`](https://europe.naverlabs.com/research/publications/pow3r-empowering-unconstrained-3d-reconstruction-with-camera-and-scene-priors/)
 * **_Align3R: Aligned Monocular Depth Estimation for Dynamic Videos_** <br>
 `CVPR 2025` | [`Paper`](https://arxiv.org/pdf/2412.03079) | [`Project`](https://github.com/jiah-cloud/Align3R)
+* **_Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization_** <br>
+`CVPR 2025` | [`Paper`](https://arxiv.org/pdf/2412.08376) | [`Project`](https://github.com/ffrivera0/reloc3r)
 * **_Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass_** <br>
 `CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Fast3R_Towards_3D_Reconstruction_of_1000_Images_in_One_Forward_CVPR_2025_paper.html) | [`Project`](https://fast3r-3d.github.io/)
+* **_MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds_** <br>
+`CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Tang_MV-DUSt3R_Single-Stage_Scene_Reconstruction_from_Sparse_Views_In_2_Seconds_CVPR_2025_paper.pdf) | [`Project`](https://mv-dust3rp.github.io/)
 * **_SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos_** <br>
 `CVPR 2025` | [`Paper`](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_SLAM3R_Real-Time_Dense_Scene_Reconstruction_from_Monocular_RGB_Videos_CVPR_2025_paper.pdf) | [`Project`](https://github.com/PKU-VCL-3DV/SLAM3R)
 * **_VGGT: Visual Geometry Grounded Transformer_** <br>
