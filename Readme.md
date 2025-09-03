@@ -43,6 +43,8 @@ Including but not limited to 3D/4D reconstruction methods, surveys, datasets and
 `ECCV 2024` | [`Paper`](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02257.pdf) | [`Project`](https://justimyhxu.github.io/projects/grm/)
 * **_GS-LRM: Large Reconstruction Model for 3D Gaussian Splatting_** <br>
 `ECCV 2024` | [`Paper`](https://arxiv.org/abs/2404.19702) | [`Project`](https://sai-bi.github.io/project/gs-lrm/)
+* **_LatentSplat: Autoencoding Variational Gaussians for Fast Generalizable 3D Reconstruction_** <br>
+`ECCV 2024` | [`Paper`](https://arxiv.org/abs/2403.16292) | [`Project`](https://github.com/Chrixtar/latentsplat)
 * **_Epipolar-Free 3D Gaussian Splatting for Generalizable Novel View Synthesis_** <br>
 `NeurIPS 2024` | [`Paper`](https://proceedings.neurips.cc/paper_files/paper/2024/file/45ed1a72597594c097152ef9cc187762-Paper-Conference.pdf) | [`Project`](https://tatakai1.github.io/efreesplat/)
 * **_NonoSplat: No Pose, No Problem Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images_** <br>
