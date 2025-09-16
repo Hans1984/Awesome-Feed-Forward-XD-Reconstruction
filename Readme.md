@@ -38,6 +38,8 @@ Including but not limited to **3D/4D reconstruction methods, datasets, and tools
 `Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2509.02560) | [`Project`](https://mystorm16.github.io/fastvggt/)
 * **_VGGT-Long: Chunk it, Loop it, Align it -- Pushing VGGT's Limits on Kilometer-scale Long RGB Sequences_** <br>
 `Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2507.16443) | [`Project`](https://github.com/DengKaiCQ/VGGT-Long)
+* **_π3: Permutation-Equivariant Visual Geometry Learning_** <br>
+`Arxiv 2025` | [`Paper`](https://arxiv.org/pdf/2507.13347#page=12.11) | [`Project`](https://yyfz.github.io/pi3/)
 ---
 
 ### 🟩 Gaussian Splatting Based
