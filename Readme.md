@@ -40,6 +40,10 @@ Including but not limited to **3D/4D reconstruction methods, datasets, and tools
 `Arxiv 2025` | [`Paper`](https://arxiv.org/abs/2507.16443) | [`Project`](https://github.com/DengKaiCQ/VGGT-Long)
 * **_π3: Permutation-Equivariant Visual Geometry Learning_** <br>
 `Arxiv 2025` | [`Paper`](https://arxiv.org/pdf/2507.13347#page=12.11) | [`Project`](https://yyfz.github.io/pi3/)
+* **_Faster VGGT with Block-Sparse Global Attention_** <br>
+`Arxiv 2025` | [`Paper`](https://arxiv.org/pdf/2509.07120) | [`Project`]()
+* **_MapAnything: Universal Feed-Forward Metric 3D Reconstruction_** <br>
+`Arxiv 2025` | [`Paper`](https://www.arxiv.org/pdf/2509.13414) | [`Project`](https://map-anything.github.io/)
 ---
 
 ### 🟩 Gaussian Splatting Based
