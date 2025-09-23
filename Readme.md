@@ -155,4 +155,5 @@ Including but not limited to **3D/4D reconstruction methods, datasets, and tools
 | **CloudCompare** | Interactive 3D point cloud viewer & processing software, supports segmentation, registration, distance computation, large-scale data. | [🌐](https://www.cloudcompare.org/) |
 | **MeshLab** | Open-source system for processing and editing 3D meshes and point clouds, supports cleaning, sampling, normals, meshing. | [🌐](https://www.meshlab.net/) |
 | **Open3D** | Python/C++ library for 3D data processing, point cloud visualization, registration, reconstruction. | [🌐](http://www.open3d.org/) |
+| **Viser** | Python for point cloud visualization. | [🌐](https://github.com/nerfstudio-project/viser) |
 ---
